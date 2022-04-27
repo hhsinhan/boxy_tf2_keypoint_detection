@@ -21,7 +21,7 @@ cd build
 cmake ..
 make
 ```
-### Step 4. Predict
+### Step 3. Predict
 ```
 ./get_prediction <path/to/saved_model> <path/to/image.jpg> <path/to/output.jpg>
 ```
